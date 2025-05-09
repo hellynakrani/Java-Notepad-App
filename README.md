@@ -61,7 +61,6 @@ JFileChooser for file selection
 2. Clone this repository or download the SimpleNotepad.java file.
 
 3. Compile and run the application using:
-==in cmd==
 javac SimpleNotepad.java
 
 java SimpleNotepad
