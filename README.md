@@ -1,4 +1,4 @@
- A basic Notepad application built using Java Swing that allows users to create, open, edit, and save .txt files with ease. Includes keyboard shortcuts, edit features, and prompts to save unsaved changes.
+A basic Notepad application built using Java Swing that allows users to create, open, edit, and save .txt files with ease. Includes keyboard shortcuts, edit features, and prompts to save unsaved changes.
 
 
 
@@ -10,7 +10,7 @@
 
 - 💾 Save text files (with .txt extension support)
 
-- ✂️ Cut, 📋 Copy, 📥 Paste functionalities
+- ✂ Cut, 📋 Copy, 📥 Paste functionalities
 
 - 💡 Prompt for unsaved changes before exit or file operations
 
@@ -35,7 +35,7 @@ BufferedReader/Writer for file operations
 JFileChooser for file selection 
 
 
-- ⌨️ Keyboard shortcuts:
+- ⌨ Keyboard shortcuts:
 
   - Ctrl+N – New
 
@@ -61,7 +61,7 @@ JFileChooser for file selection
 2. Clone this repository or download the SimpleNotepad.java file.
 
 3. Compile and run the application using:
+==in cmd==
+javac SimpleNotepad.java
 
-
-
- 
+java SimpleNotepad
