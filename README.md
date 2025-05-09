@@ -64,8 +64,4 @@ JFileChooser for file selection
 
 
 
-bash
-
-javac SimpleNotepad.java
-
-java SimpleNotepad
+ 
